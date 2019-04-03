@@ -7,3 +7,6 @@ Addons for monitoring local resources: https://assets.nagios.com/downloads/nagio
 NRPE Addon installation:
 https://github.com/NagiosEnterprises/nrpe
 
+Nagios Object Definition
+https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/3/en/objectdefinitions.html
+
